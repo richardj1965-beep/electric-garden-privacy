@@ -36,7 +36,7 @@ Copy `merge48.html`, change the title, date and the specifics. Add a line to `in
 Keep the claims true: if an app ever gains a network permission or an SDK, this policy
 must change before that build ships.
 
-## Before publishing merge48
+## Contact address
 
-Replace `CONTACT_EMAIL` in `merge48.html` with the real support address — it appears twice
-(visible text and the `mailto:` href).
+`merge48.html` uses **electricgarden1965@gmail.com** (the Electric Garden mailbox) in the visible text and the
+`mailto:` href. Change both together if it ever moves.
